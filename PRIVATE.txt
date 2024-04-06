@@ -1,0 +1,3 @@
+Daniel Luo
+A16851489
+.gitignore
